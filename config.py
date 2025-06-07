@@ -12,7 +12,7 @@ API_HASH = os.getenv('API_HASH', '')
 
 # Official Bot credentials
 # Hardcoded token as fallback
-BOT_TOKEN = os.getenv('BOT_TOKEN', '') or '8024932693:AAEaRTXVrMlIHPgYg5Oet2x83Q4zvrXhKSM'
+BOT_TOKEN = os.getenv('BOT_TOKEN', '') or '7365699658:AAEWrOYPJ8cUXevK69YUjCit3OrN95ixlfM'
 
 # Target channel for forwarding messages
 # The format for channels must start with "-100" followed by the actual ID
